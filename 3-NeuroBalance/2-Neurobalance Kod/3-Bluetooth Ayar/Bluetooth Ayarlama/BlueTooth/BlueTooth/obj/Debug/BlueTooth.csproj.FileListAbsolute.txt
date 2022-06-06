@@ -1,0 +1,40 @@
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csprojResolveAssemblyReference.cache
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.Form1.resources
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.Properties.Resources.resources
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csproj.GenerateResource.cache
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csproj.CoreCompileInputs.cache
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.exe.config
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.exe
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.pdb
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.exe
+C:\Users\ufidan\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.pdb
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.exe.config
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.exe
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.pdb
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.Form1.resources
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.Properties.Resources.resources
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.exe
+C:\Users\Asus\Desktop\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.pdb
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.exe.config
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.exe
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.pdb
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csprojAssemblyReference.cache
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.Form1.resources
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.Properties.Resources.resources
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csproj.GenerateResource.cache
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csproj.CoreCompileInputs.cache
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.exe
+D:\Projelerim\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.pdb
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.exe.config
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.exe
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\bin\Debug\BlueTooth.pdb
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.Form1.resources
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.Properties.Resources.resources
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.exe
+C:\Users\Asus\Desktop\3D YAZILIM\RS232_BlueTooth\BlueTooth\BlueTooth\obj\Debug\BlueTooth.pdb
