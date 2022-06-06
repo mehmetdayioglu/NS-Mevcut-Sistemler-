@@ -1,0 +1,53 @@
+LABCENTER PROTEUS PICK AND PLACE FILE
+=====================================
+
+Component positions for mikser.pdsprj
+
+Fields: Part ID, Value, Package, Stock Code, Layer, Rotation, X, Y
+Units:  Rotation - degrees, X, Y  - mm
+Notes:  The X, Y value is the centre of package as drawn in ARES.
+        The origin for these values is the Output Origin.
+        The values are a guide only and must be checked manually when
+        setting up automatic insertion equipment.
+
+"KULAKLIK","PJ-327A","PJ327AK","",TOP,-90,-10.5,53.0285
+"BONE1","PJ-327A","PJ327AK","",TOP,-90,3,53.15
+"U3","35RAPC4BH3","35RAPC4BH3","",TOP,90,-20.75,-36.1419
+"J1","292303-1","TECONN-4POS-USB","",TOP,0,-2.9,-33.6835
+"CONV","CONN-S5","CONN-SIL5","",TOP,0,-2.42,-27.4785
+"J2","292303-1","TECONN-4POS-USB","",TOP,180,9.33,-5.08347
+"C2","100uF","ELEC-RAD10","",TOP,270,-21.9,-21.63
+"C3","100uF","ELEC-RAD10","",TOP,-90,-14,-21.17
+"U1","ADTL084ARZ","SOIC127P600X175-14","",TOP,0,-8.7,15.7215
+"U2","ADTL084ARZ","SOIC127P600X175-14","",TOP,0,-8.6,31.4215
+"U11","ADTL084ARZ","SOIC127P600X175-14","",TOP,0,-8.9,-1.27847
+"U5","LM358AD","SOIC127P600X175-8N","",TOP,0,-23.9,-3.17847
+"R30","10k","1206_RES","",TOP,-90,-27.5,35.0467
+"C20","100nF","CAPC3216X140","Digikey 445-1388-1-ND",TOP,90,-30.5,35.0215
+"R29","1k","1206_RES","",TOP,90,-31.2,26.0748
+"R27","10k","1206_RES","",TOP,0,-28.1748,-11.8
+"R28","10k","1206_RES","",TOP,0,-23.8252,-9.27847
+"R66","4.7K","1206_RES","",TOP,180,-26.2748,3.22153
+"C4","4.7uF","ELEC-RAD10","",TOP,180,-26.67,9.42153
+"PLPCB1","CONN-S3","CONN-SIL3","",TOP,180,-25.94,55.1215
+"R31","18K","1206_RES","",TOP,-90,-14.5,4.14673
+"R17","2k","1206_RES","",TOP,90,-3.8,6.49633
+"R12","2k","1206_RES","",TOP,90,-1.2,6.49633
+"R1","33k","1206_RES","",TOP,90,-16.7,19.9963
+"R2","3.3K","1206_RES","",TOP,90,-17,13.7963
+"R3","10k","1206_RES","",TOP,0,-20.9252,17.2215
+"R4","10k","1206_RES","",TOP,90,-3.1,16.6963
+"R5","33k","1206_RES","",TOP,90,-2.9,21.5748
+"R6","33k","1206_RES","",TOP,270,-3,11.9467
+"R7","3.3K","1206_RES","",TOP,90,-6.4,8.69633
+"R8","10k","1206_RES","",TOP,0,-15.9252,9.92153
+"R9","10k","1206_RES","",TOP,90,-0.9,30.4748
+"R10","33k","1206_RES","",TOP,0,2.1252,33.2
+"R11","33k","1206_RES","",TOP,270,-3.5,27.1412
+"R13","10k","1206_RES","",TOP,0,-8.2252,-16.0785
+"R14","10k","1206_RES","",TOP,-90,-14.4,31.1467
+"R15","33k","1206_RES","",TOP,-90,-16.7369,28.0117
+"R16","33k","1206_RES","",TOP,90,-14.5,36.2963
+"R18","10k","1206_RES","",TOP,0,-8.3252,-19.0785
+"R71","10k","1206_RES","",TOP,-90,-14.8,17.7467
+"R74","33k","1206_RES","",TOP,-90,-14.7,13.3467
